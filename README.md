@@ -1,15 +1,15 @@
 
 ![Header](/header.png)
 
-#### <div align="left">A full-time full-stack freelance developer working remotely since 2021 🚀</div>  
+#### <div align="left">A full-time full-stack freelance developer working remotely 🚀</div>  
   
 - 🤔 I'm a thinker and problem solver
   
 - 🧡 My favorite language is JavaScript  
 
-- ☁️ And my favorite runtime environment is Node.js
+- ☁️ My favorite runtime environment is Node.js
 
-- 🌱 I'm always adding on new languages, frameworks, and libraries as needed  
+- 🌱 And I'm always adding on new languages, frameworks, and libraries as needed  
 
 - 🧘🏻‍♂️ Outside of coding, I love gardening, meditation, and petting guinea pigs.
 
