@@ -1,18 +1,22 @@
 ![Header](/header.png)
 
+<br/>
 
 #### <div align="left">A full-time full-stack freelance developer working remotely since 2021 🚀</div>  
   
-- 🤔 I'm a thinker and problem solver  
+- 🤔 I'm a thinker and problem solver
+  
 - 🧡 My favorite language is JavaScript  
+
 - ☁️ And my favorite runtime environment is Node.js
+
 - 🌱 I'm always adding on new languages, frameworks, and libraries as needed  
 
 <br/>  
 
 ## My Skill Set  
 
-<h3 align="left">Front-end</h3>
+<h3 align="left">Front-end:</h3>
 <p align="left">
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" width="50" />
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" width="50" />
@@ -25,7 +29,8 @@
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" width="50" />
 </p>
 
-<h3 align="left">Back-end</h3>
+
+<h3 align="left">Back-end:</h3>
 <p align="left">
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" width="50" />
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" width="50" />
@@ -37,8 +42,9 @@
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="40" width="50" />
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" width="50" />
 </p>
+
   
-<h3 align="left">DevOps</h3>
+<h3 align="left">DevOps:</h3>
 <p align="left">
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" width="50" />
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" width="50" />
