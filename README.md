@@ -1,8 +1,6 @@
 
 ![Header](/header.png)
 
-<br/>
-
 #### <div align="left">A full-time full-stack freelance developer working remotely since 2021 🚀</div>  
   
 - 🤔 I'm a thinker and problem solver
@@ -19,15 +17,15 @@
 
 <h3 align="left">Front-end:</h3>
 <p align="left">
-  <img align="center" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" width="50" />
-  <img align="center" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" width="50" />
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" width="50" />
-  <img align="center" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" width="50" />
-  <img align="center" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" width="50" />
-  <img align="center" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" width="50" />
-  <img align="center" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" width="50" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" width="50" />
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" width="50" />
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" width="50" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" width="50" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" width="50" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" width="50" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" width="50" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" width="50" />  
 </p>
 
 <br/>
