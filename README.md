@@ -1,3 +1,4 @@
+
 ![Header](/header.png)
 
 <br/>
@@ -29,6 +30,7 @@
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" width="50" />
 </p>
 
+<br/>
 
 <h3 align="left">Back-end:</h3>
 <p align="left">
@@ -43,6 +45,7 @@
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" width="50" />
 </p>
 
+<br/>
   
 <h3 align="left">DevOps:</h3>
 <p align="left">
