@@ -11,7 +11,7 @@
 
 - 🌱 And I'm always adding on new languages, frameworks, and libraries as needed  
 
-- 🧘🏻‍♂️ Outside of coding, I love gardening, meditation, and petting guinea pigs.
+- 🧘🏻‍♂️ Outside of coding, I love gardening, meditation, and petting guinea pigs
 
 <br/>  
 
