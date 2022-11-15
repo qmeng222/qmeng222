@@ -1,23 +1,25 @@
 ![Header](/header.png)
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Qingying, a full-time full-stack freelance developer working remotely since 2021 🚀</div>  
+### <div align="center">A full-time full-stack freelance developer working remotely since 2021 🚀</div>  
   
 - 🤔 I'm a thinker and problem solver  
 - 🧡 My favorite language is JavaScript  
 - ☁️ And my favorite runtime environment is Node.js
 - 🌱 I'm always adding on new languages, frameworks, and libraries as needed  
-  
 
 <br/>  
 
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
+<h3 align="left">Front-end</h3>
+<p align="left">
+<img align="center" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" width="50" />
+</p>
+
+<h3 align="left">Back-end</h3>
+
+<h3 align="left">DevOps</h3>
 
 
 ### Frontend  
