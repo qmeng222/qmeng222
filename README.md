@@ -3,15 +3,13 @@
 
 #### <div align="left">A full-stack developer working remotely since 2022 🚀</div>  
 
-- 🤔 I'm a thinker and problem solver
+- 🤔 I am a strategic thinker, an innovative problem-solver, and a lifelong learner
   
-- 🧡 My favorite language is JavaScript  
+- 🧡 JavaScript is my favorite language, and Node is my favorite runtime environment
 
-- ☁️ My favorite runtime environment is Node.js
+- 🌱 And I'm constantly expanding my skill set by incorporating new programming languages, frameworks, and libraries
 
-- 🌱 And I'm always adding on new languages, frameworks, and libraries as needed  
-
-- 🧘🏻‍♂️ Outside of coding, I love gardening, meditation, and petting my guinea pigs
+- 🧘🏻‍♂️ Aside from coding, I love gardening, meditation, and petting my guinea pigs
 <br/>
 
 ## Connect with me  
