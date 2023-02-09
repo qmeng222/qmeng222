@@ -1,7 +1,7 @@
 
 ![Header](/header.png)
 
-#### <div align="left">A full-stack freelance developer working remotely since 2022 🚀</div>  
+#### <div align="left">A full-stack developer working remotely since 2022 🚀</div>  
 
 - 🤔 I'm a thinker and problem solver
   
