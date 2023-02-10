@@ -10,6 +10,7 @@
 - 🌱 And I'm constantly expanding my skill set by incorporating new programming languages, frameworks, and libraries
 
 - 🧘🏻‍♂️ Aside from coding, I love gardening, meditation, and petting my guinea pigs
+
 <br/>
 
 ## Connect with me  
