@@ -1,7 +1,9 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+</div>  
+<!-- ![Header](/header.png)  -->
 
-![Header](/header.png)
-
-#### <div align="left">A full-stack developer working remotely since 2022 🚀</div>  
+#### <div align="left">I'm Qingying, a full-stack developer working remotely since 2021 🚀</div>  
 
 - 🤔 I am a strategic thinker, an innovative problem-solver, and a lifelong learner
   
