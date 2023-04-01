@@ -5,7 +5,7 @@
 
 - 🤔 I am a strategic thinker, an innovative problem-solver, and a lifelong learner
   
-- 🧡 JavaScript is my favorite language, and Node is my favorite runtime environment
+- 🧡 JavaScript is my favorite language, and Node is my preferred runtime environment
 
 - 🌱 And I'm constantly expanding my skill set by incorporating new programming languages, frameworks, and libraries
 
