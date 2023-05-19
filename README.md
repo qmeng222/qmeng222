@@ -5,11 +5,11 @@
 
 - 🤔 I am a strategic thinker, an innovative problem-solver, and a lifelong learner. 
   
-- 🧡 Python and JavaScript are my predominant programming languages. 
+- 🧡 Python and JavaScript are my primary programming languages for full-stack development.
 
 - 🌱 And I'm constantly expanding my skill set by incorporating new programming languages, frameworks, and libraries. 
 
-- 🧘🏻‍♂️ Aside from coding, I love gardening, meditation, and petting my guinea pigs.
+- 🧘🏻‍♂️ Aside from coding, I love gardening, meditation, and doting on my guinea pigs.
 
 <br/>
 
