@@ -3,13 +3,15 @@
 
 #### <div align="left">A full-stack developer working remotely since 2021 🚀</div>  
 
-- 🤔 I am a strategic thinker, an innovative problem-solver, and a lifelong learner. 
+- 🧠 I am a strategic thinker, innovative problem-solver, and lifelong learner. 
   
-- 🧡 Python and JavaScript are my primary languages for full-stack development.
+- 👩🏻‍💻 Python and JavaScriptare are my primary languages for full-stack development.
 
-- 🌱 And I'm constantly expanding my skill set by incorporating new programming languages, frameworks, and libraries. 
+- 🌱 I continually expand my skill set by incorporating new programming languages, frameworks, and libraries.
 
-- 🧘🏻‍♂️ Aside from coding, I love gardening, meditation, and doting on my guinea pigs.
+- 🧡 Check out [my portfolio](https://qmeng222.gitlab.io/) for projects and demos. 
+
+- 🐹 Besides coding, I enjoy gardening, meditation, and doting on my guinea pigs.
 
 <br/>
 
@@ -60,8 +62,6 @@
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" width="50" />
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" width="50" />
 </p>
-
-<br/>  
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=qmeng222&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
