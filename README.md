@@ -64,6 +64,16 @@
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" width="50" />
 </p>
 
+<br />
+
+## Featured Projects
+
+| [![Tours & Tickets: an end-to-end platform for tour searching, booking, and reviewing](/images/tours-and-tickets.gif)](https://github.com/qmeng222/Tours-and-Tickets) | [![CarCar: auto dealer management system](/images/CarCar.gif)](https://github.com/qmeng222/Auto-Dealer-Management-System) |
+|---|---|
+| [![Dashboard Card: an adaptive and responsive dashboard layout](/images/dashboard-card.gif)](https://github.com/qmeng222/Dashboard-card) | [![PalettePro-AI: an AI-powered color palette generator](/images/PalettePro-AI.gif)](https://github.com/qmeng222/PalettePro-AI.git) |
+
+<br />
+
 ## Github Stats
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=qmeng222&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
