@@ -72,9 +72,9 @@
 |---|---|
 | [![Dashboard Card: an adaptive and responsive dashboard layout](/images/dashboard-card.gif)](https://github.com/qmeng222/Dashboard-card) | [![PalettePro-AI: an AI-powered color palette generator](/images/PalettePro-AI.gif)](https://github.com/qmeng222/PalettePro-AI.git) |
 
-<br />
+<!-- <br />
 
-<!-- ## Github Stats
+## Github Stats
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=qmeng222&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
- -->
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=qmeng222&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+
