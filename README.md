@@ -68,13 +68,12 @@
 
 ## Featured Projects
 
-| [![Tours & Tickets: an end-to-end platform for tour searching, booking, and reviewing](/images/tours-and-tickets.gif)](https://github.com/qmeng222/Tours-and-Tickets) | [![CarCar: auto dealer management system](/images/CarCar.gif)](https://github.com/qmeng222/Auto-Dealer-Management-System) |
-|---|---|
-| [![Dashboard Card: an adaptive and responsive dashboard layout](/images/dashboard-card.gif)](https://github.com/qmeng222/Dashboard-card) | [![PalettePro-AI: an AI-powered color palette generator](/images/PalettePro-AI.gif)](https://github.com/qmeng222/PalettePro-AI.git) |
+| [![Tours & Tickets: an end-to-end platform for tour searching, booking, and reviewing](/images/tours-and-tickets.gif)](https://github.com/qmeng222/Tours-and-Tickets)                                                                     | [![CarCar: auto dealer management system](/images/CarCar.gif)](https://github.com/qmeng222/Auto-Dealer-Management-System)           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [![Spotify Playlist Wizard: an app uses Generative Pre-trained Transformer to generate music playlists on Spotify from user prompts.](/images/Spotify-playlist-wizard_overview.png)](https://github.com/qmeng222/Spotify-Playlist-Wizard) | [![PalettePro-AI: an AI-powered color palette generator](/images/PalettePro-AI.gif)](https://github.com/qmeng222/PalettePro-AI.git) |
 
 <!-- <br />
 
 ## Github Stats
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=qmeng222&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
-
