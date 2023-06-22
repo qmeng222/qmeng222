@@ -68,9 +68,9 @@
 
 ## Featured Projects
 
-| [![Tours & Tickets: an end-to-end platform for tour searching, booking, and reviewing](/images/tours-and-tickets.gif)](https://github.com/qmeng222/Tours-and-Tickets)                             | [![CarCar: auto dealer management system](/images/CarCar.gif)](https://github.com/qmeng222/Auto-Dealer-Management-System)                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![Spotify Playlist Wizard: an app uses GPT to generate music playlists on Spotify from user prompts.](/images/Spotify-Playlist-Wizard.gif)](https://github.com/qmeng222/Spotify-Playlist-Wizard) | [![MovieVista: a movie embeddings generator plus content-based movie recommender](/images/MovieVista.gif)](https://github.com/qmeng222/MovieVista.git) |
+| [![MovieVista: a movie embeddings generator plus content-based movie recommender](/images/MovieVista.gif)](https://github.com/qmeng222/MovieVista.git) | [![Spotify Playlist Wizard: an app uses GPT to generate music playlists on Spotify from user prompts.](/images/Spotify-Playlist-Wizard.gif)](https://github.com/qmeng222/Spotify-Playlist-Wizard) |
+|---|---|
+| [![Tours & Tickets: an end-to-end platform for tour searching, booking, and reviewing](/images/tours-and-tickets.gif)](https://github.com/qmeng222/Tours-and-Tickets) | [![CarCar: auto dealer management system](/images/CarCar.gif)](https://github.com/qmeng222/Auto-Dealer-Management-System) |
 
 <!-- <br />
 
