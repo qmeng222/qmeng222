@@ -6,9 +6,9 @@
 
 - 🛠 Python and JavaScriptare are my primary languages for full-stack development.
 
-- 🌱 And I continually expand my skill set by incorporating new programming languages, frameworks, and libraries.
+- 🌱 And I continuously expanding my skill set by embracing new programming languages, frameworks, and libraries.
 
-- 👩🏻‍💻 Check out [my portfolio](https://qmeng222.github.io/) for projects and demos.
+- 👩🏻‍💻 Feel free to check out [my portfolio](https://qmeng222.github.io/) for projects and demos.
 
 - 🐹 Besides coding, I enjoy gardening, meditation, and doting on my guinea pigs.
 
