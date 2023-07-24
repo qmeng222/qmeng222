@@ -8,7 +8,7 @@
 
 - 🌱 And I continually expand my skill set by incorporating new programming languages, frameworks, and libraries.
 
-- 🌟 Check out [my portfolio](https://qmeng222.github.io/) for projects and demos.
+- 👩🏻‍💻 Check out [my portfolio](https://qmeng222.github.io/) for projects and demos.
 
 - 🐹 Besides coding, I enjoy gardening, meditation, and doting on my guinea pigs.
 
