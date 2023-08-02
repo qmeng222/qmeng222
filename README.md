@@ -2,13 +2,13 @@
 
 #### <div align="left">A full-stack developer working remotely since 2021 🚀</div>
 
-- 🧠 I am a strategic thinker, innovative problem-solver, and lifelong learner.
+- 🤔 I am a strategic thinker, innovative problem-solver, and lifelong learner.
 
 - 🛠 Python and JavaScriptare are my primary languages for full-stack development.
 
 - 🌱 And I continuously expanding my skill set by embracing new languages, frameworks, and libraries.
 
-- 👩🏻‍💻 Feel free to explore [my portfolio](https://qmeng222.github.io/) for a comprehensive list of projects and demos.
+- 🌟 Feel free to explore [my portfolio](https://qmeng222.github.io/) for a comprehensive list of projects and demos.
 
 - 🐹 Besides coding, I enjoy gardening, meditation, and doting on my guinea pigs.
 
