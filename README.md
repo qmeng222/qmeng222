@@ -4,7 +4,7 @@
 
 - 🤔 I am a strategic thinker, innovative problem-solver, and lifelong learner.
 
-- 🛠 Python and JavaScript are are my primary languages for full-stack development.
+- 🛠 Python and JavaScript are my primary languages for full-stack development.
 
 - 🌱 And I continuously expanding my skill set by embracing new languages, frameworks, and libraries.
 
