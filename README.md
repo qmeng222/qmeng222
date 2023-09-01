@@ -1,7 +1,7 @@
 ![Header](/images/header.png)
 
 <div align="left>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=6000&color=434343&background=FFFFFF00&vCenter=true&multiline=true&width=700&height=30&lines=A+machine+learning+engineer+and+full-stack+developer+working+remotely+since+2021+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=6000&color=FFFFFFFF&background=434343FF&vCenter=true&multiline=true&width=670&height=30&lines=A+machine+learning+engineer+and+full-stack+developer+working+remotely+since+2021+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
 
 - 🤔 I am a strategic thinker, innovative problem-solver, and lifelong learner.
