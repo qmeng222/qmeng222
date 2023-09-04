@@ -1,4 +1,4 @@
-<!--![Header](/images/header.png)
+![Header](/images/header.png)
 
 <div align="left>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=6000&color=FFFFFFFF&background=434343FF&vCenter=false&multiline=true&width=670&height=27&lines=A+machine+learning+engineer+and+full-stack+developer+working+remotely+since+2021+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -16,7 +16,7 @@
 
 <br/>
 
-## Connect with me:
+<!--## Connect with me:
 
 <div align="left">
 <a href="https://linkedin.com/in/qmeng222" target="_blank">
@@ -27,7 +27,7 @@
 </a>
 </div>
 
-<br/>
+<br/>-->
 
 ## My Skill Set:
 
@@ -66,7 +66,7 @@
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" width="50" />
 </p>
 
-<br />-->
+<br />
 
 ## Featured Projects:
 
@@ -74,8 +74,8 @@
 |---|---|
 | [![Tours & Tickets: an end-to-end platform for tour searching, booking, and reviewing](/images/tours-and-tickets.gif)](https://github.com/qmeng222/Tours-and-Tickets) | [![CarCar: auto dealer management system](/images/CarCar.gif)](https://github.com/qmeng222/Auto-Dealer-Management-System) |
 
-<!-- <br />
+<!--<br />
 
 ## Github Stats
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=qmeng222&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=qmeng222&show_icons=true&count_private=true&hide_border=true" align="center" /></div>-->
