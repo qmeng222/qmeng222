@@ -14,9 +14,9 @@
 
 - 🐹 Besides coding, I enjoy gardening, meditation, and doting on my guinea pigs.
 
-<!--<br/>
+<br/>
 
-## Connect with me:
+<!--## Connect with me:
 
 <div align="left">
 <a href="https://linkedin.com/in/qmeng222" target="_blank">
@@ -66,7 +66,7 @@
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" width="50" />
 </p>
 
-<br />
+<br />-->
 
 ## Featured Projects:
 
@@ -74,7 +74,7 @@
 |---|---|
 | [![Tours & Tickets: an end-to-end platform for tour searching, booking, and reviewing](/images/tours-and-tickets.gif)](https://github.com/qmeng222/Tours-and-Tickets) | [![CarCar: auto dealer management system](/images/CarCar.gif)](https://github.com/qmeng222/Auto-Dealer-Management-System) |
 
-<br />
+<!--<br />
 
 ## Github Stats
 
