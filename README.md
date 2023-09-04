@@ -14,9 +14,9 @@
 
 - 🐹 Besides coding, I enjoy gardening, meditation, and doting on my guinea pigs.
 
-<br/>
+<!--<br/>
 
-<!--## Connect with me:
+## Connect with me:
 
 <div align="left">
 <a href="https://linkedin.com/in/qmeng222" target="_blank">
@@ -25,7 +25,7 @@
 <a href="https://gitlab.com/qmeng222" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-</div>
+</div>-->
 
 <br/>
 
@@ -66,7 +66,7 @@
   <img align="center" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" width="50" />
 </p>
 
-<br />-->
+<br />
 
 ## Featured Projects:
 
