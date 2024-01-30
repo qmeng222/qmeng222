@@ -12,7 +12,7 @@
 
 - 🌟 Feel free to explore [my portfolio](https://qmeng222.github.io/) for a comprehensive list of projects and demos.
 
-- 🐹 Besides coding, I enjoy gardening, meditation, and doting on my guinea pigs.
+- 🧘🏻‍♀️ Beyond coding, I enjoy hiking, gardening, and meditation.
 
 <!--<br/>
 
