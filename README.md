@@ -27,7 +27,6 @@
 </a>
 </div>-->
 
-<br/>
 
 ## My Skill Set:  
 
@@ -82,7 +81,6 @@
 
 </td></tr></table>  
 
-<br />
 
 ## Featured Projects:
 
