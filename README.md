@@ -43,7 +43,7 @@
 
 </td><td valign="top" width="20%">
 
-### Deep Learning    
+### Machine Learning    
 <div align="center"> 
   <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="50" /></a>  
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" /></a>  
