@@ -87,9 +87,9 @@
 
 </td></tr></table>  
 
-<picture>
+<!--<picture>
   <img width="1000" alt="github contribution grid snake animation" src="https://github.com/qmeng222/qmeng222/blob/output/github-contribution-grid-snake.svg">
-</picture>
+</picture>-->
 
 ## Featured Projects:
 
