@@ -4,6 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=3000&pause=6000&color=FFFFFFFF&background=434343FF&vCenter=false&multiline=true&width=670&height=27&lines=A+machine+learning+engineer+and+full-stack+developer+working+remotely+since+2021+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
 
+
 - 🤔 I am a strategic thinker, innovative problem-solver, and lifelong learner.
 
 - 🛠 Python and JavaScript are my primary languages for full-stack development.
@@ -85,11 +86,11 @@
   <a href="https://slack.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="Slack" height="50" /></a> 
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
 
-<!--<picture>
+<picture>
   <img width="1000" alt="github contribution grid snake animation" src="https://github.com/qmeng222/qmeng222/blob/output/github-contribution-grid-snake.svg">
-</picture>-->
+</picture>
 
 ## Featured Projects:
 
@@ -106,7 +107,3 @@
 <!--<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=qmeng222&style=for-the-badge&color=orange" alt=""/>
 </div>-->
-
-<!--<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>-->
